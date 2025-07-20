@@ -1,0 +1,14 @@
+customtkinter
+pyttsx3
+speechrecognition
+pyaudio
+wave
+threading
+keyboard
+selenium
+pyautogui
+google-api-python-client
+google-auth-oauthlib
+google-auth
+Pillow
+google-generativeai 
