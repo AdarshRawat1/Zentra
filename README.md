@@ -1,6 +1,8 @@
-# Zentra: AI-Powered Task Automation Chrome Extension
+<p align="center">
+  <img width="150" alt="glitch" src="https://github.com/user-attachments/assets/68c96547-cc6f-41ed-9001-21d4905976c6" />
+</p>
 
----
+# Zentra: AI-Powered Task Automation Chrome Extension
 
 
 Zentra is a powerful Chrome extension designed to streamline your workflow by automating repetitive tasks using the power of AI. With support for multiple underlying AI models, Zentra offers flexible and intelligent automation tailored to your needs.
